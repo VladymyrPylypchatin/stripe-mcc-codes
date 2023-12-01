@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "csv-file-creator": "^1.0.9",
+    "merchant-category-code": "^1.0.1",
+    "object2ext": "^0.0.4"
+  }
+}
